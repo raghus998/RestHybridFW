@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Response Body is : {"status":"success","data":null}]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2030" started-at="2020-03-18T15:00:04Z" finished-at="2020-03-18T15:00:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2030" started-at="2020-03-18T15:00:04Z" finished-at="2020-03-18T15:00:06Z">
+      <class name="com.employeeapi.tests.UpdateeEmployee">
+        <test-method status="PASS" signature="updateEmployee()[pri:0, instance:com.employeeapi.tests.UpdateeEmployee@26653222]" name="updateEmployee" duration-ms="2011" started-at="2020-03-18T15:00:04Z" finished-at="2020-03-18T15:00:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Response Body is : {"status":"success","data":null}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updateEmployee -->
+      </class> <!-- com.employeeapi.tests.UpdateeEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Suite -->
+</testng-results>
